@@ -24,10 +24,9 @@
 - **`hooks`**: Contém hooks personalizados que encapsulam lógica de estado.
 - **`utils`**: Armazena funções utilitárias e helpers.
 
-> ![[img-01.png]]
+> ![img](./img/img-01.png)
 > *Exemplo em Nex.js*.
 
-![img](img-01.png)
 ## 1.2 Diferenciação entre Pastas de Lógica e Pastas de Apresentação
 
 - **Pastas de Lógica**: Diretórios que contêm a lógica de negócios e manipulação de dados (ex: `hooks`, `services`, `context`).
@@ -50,7 +49,7 @@
 ## 2.3 Componentes de Layout vs. Componentes de Funcionalidade
 
 - **Componentes de Layout**: Elementos responsáveis pela estrutura e apresentação visual (ex: `Header`, `Footer`, `Sidebar`).
->![[Novo Documento - Selection.png]]
+>![img](./img/img-02.png)
 - **Componentes de Funcionalidade**: Elementos que realizam funções específicas, como formulários ou listas (ex: `UserForm`, `ProductList`).
 
 ---
@@ -76,13 +75,13 @@
 - **Imagens**: Armazenar na pasta `assets/images`.
 - **Ícones**: Manter na pasta `assets/icons` ou usar bibliotecas de ícones (ex: FontAwesome).
 - **Fontes**: Armazenar fontes personalizadas na pasta `assets/fonts`.
-> ![[Pasted image 20241024131035.png]]
+> ![img](./img/img-03.png)
 
 ## 4.2 Utilização de Fontes Externas vs. Fontes Locais
 
 - **Fontes Externas**: Usar serviços como [Google Fonts](https://fonts.google.com/) para simplificar a inclusão e carregamento.
 - **Fontes Locais**: Armazenar e usar fontes personalizadas, dentro do nosso style.css, quando necessário, garantindo o controle total sobre o estilo.
-> ![[Pasted image 20241024131340.png]]
+> ![img](./img/img-04.png)
 
 ---
 
