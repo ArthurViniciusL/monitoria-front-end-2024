@@ -24,10 +24,10 @@
 - **`hooks`**: Contém hooks personalizados que encapsulam lógica de estado.
 - **`utils`**: Armazena funções utilitárias e helpers.
 
-> ![[Pasted image 20241024125224.png]]
+> ![[img-01.png]]
 > *Exemplo em Nex.js*.
 
-
+![img](img-01.png)
 ## 1.2 Diferenciação entre Pastas de Lógica e Pastas de Apresentação
 
 - **Pastas de Lógica**: Diretórios que contêm a lógica de negócios e manipulação de dados (ex: `hooks`, `services`, `context`).
