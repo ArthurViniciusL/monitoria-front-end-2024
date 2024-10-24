@@ -55,7 +55,7 @@ git config --global user.email "seu.email@example.com"
 	git clone <link_do_reposriotrio>
 	```
 	- Exemplo:
-		`git clone: https://github.com/ArthurViniciusL/BASIC-GIT-AND-GITHUB-GUIDE.git `
+		`git clone: https://github.com/ArthurViniciusL/monitoria-front-end-2024.git`
 
 ## Monitoramento e Histórico:
 - **Verificando o status do repositório**:
