@@ -1,5 +1,6 @@
 # Boas Práticas no Desenvolvimento Front-end - Um Guia Introdutório.
 
+[Baixar o material](https://github.com/ArthurViniciusL/monitoria-front-end-2024/blob/main/Boas%20Pr%C3%A1ticas%20no%20Desenvolvimento%20Front-end/Boas%20Pr%C3%A1ticas%20no%20Desenvolvimento%20Front-end%20-%20Um%20Guia%20Introdut%C3%B3rio.pdf)
 ## Introdução
 > Este material tem como objetivo fornecer um guia prático e abrangente sobre boas práticas no desenvolvimento front-end, ajudando desenvolvedores a criar aplicações web mais eficientes, manuteníveis e escaláveis.
 
